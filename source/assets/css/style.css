@@ -1,0 +1,15 @@
+.file-btn{
+    cursor: pointer;
+}
+
+th {
+    width: 150px;
+}
+
+.w-100{
+    width: 100% !important;
+}
+
+.m-t-50{
+    margin-top: 50px;
+}
